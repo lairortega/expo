@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/expo/expo/tree/main/packages/eslint-config-universe",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.3.0",
     "@typescript-eslint/parser": "^6.0.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-import": "^2.27.5",
