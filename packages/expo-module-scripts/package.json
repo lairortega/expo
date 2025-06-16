@@ -33,7 +33,7 @@
     "@expo/npm-proofread": "^1.0.1",
     "@testing-library/react-hooks": "^7.0.1",
     "@tsconfig/node18": "^18.2.2",
-    "@types/jest": "^29.2.1",
+    "@types/jest": "^30.0.0",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-preset-expo": "~10.0.0",
     "commander": "^2.19.0",
